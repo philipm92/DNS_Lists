@@ -1,0 +1,18 @@
+0.0.0.0 d1s31zyz7dcc2d.cloudfront.net
+0.0.0.0 amzdigital-a.akamaihd.net
+0.0.0.0 amzdigitaldownloads.edgesuite.net
+0.0.0.0 softwareupdates.amazon.com
+0.0.0.0 updates.amazon.com
+
+0.0.0.0 prod.ota-cloudfront.net
+0.0.0.0 d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net
+0.0.0.0 arcus-uswest.amazon.com
+0.0.0.0 arcus-useast.amazon.com
+
+0.0.0.0 amzdigital-a.akamaihd.net
+0.0.0.0 amzdigitaldownloads.edgesuite.net
+0.0.0.0 arcus-useast.amazon.com
+0.0.0.0 arcus-uswest.amazon.com
+0.0.0.0 d1s31zyz7dcc2d.cloudfront.net
+0.0.0.0 softwareupdates.amazon.com
+0.0.0.0 updates.amazon.com
