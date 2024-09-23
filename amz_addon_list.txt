@@ -18,4 +18,4 @@
 
 # other urls
 0.0.0.0 a2z.com pv-cdn.net amazon.dev 
-
+0.0.0.0 cloudfront.net aiv-cdn.net 
