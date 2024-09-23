@@ -16,3 +16,11 @@
 0.0.0.0 d1s31zyz7dcc2d.cloudfront.net
 0.0.0.0 softwareupdates.amazon.com
 0.0.0.0 updates.amazon.com
+
+
+# ! Attempt to block Prime Ads
+0.0.0.0 abbo7pmaaaaaaaamhdrshsjlfhjgw.pop-iad-2.cf.dash.row.aiv-cdn.net
+
+0.0.0.0 a185avoddashs3ww-a.akamaihd.net
+
+0.0.0.0 unagi-na.amazon.com 
