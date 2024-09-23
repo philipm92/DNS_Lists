@@ -20,7 +20,11 @@
 
 # ! Attempt to block Prime Ads
 0.0.0.0 abbo7pmaaaaaaaamhdrshsjlfhjgw.pop-iad-2.cf.dash.row.aiv-cdn.net
-
 0.0.0.0 a185avoddashs3ww-a.akamaihd.net
-
 0.0.0.0 unagi-na.amazon.com 
+
+# other urls
+0.0.0.0 a2z.com pv-cdn.net amazon.dev 
+0.0.0.0 cloudfront.net aiv-cdn.net 
+0.0.0.0 akamaihd.net 
+0.0.0.0 aiv-delivery.net 
