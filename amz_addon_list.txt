@@ -21,3 +21,5 @@
 #0.0.0.0 cloudfront.net aiv-cdn.net 
 #0.0.0.0 akamaihd.net 
 #0.0.0.0 aiv-delivery.net
+0.0.0.0 fls-eu.amazon.com
+0.0.0.0 d3h5bk8iotgjvw.cloudfront.net
