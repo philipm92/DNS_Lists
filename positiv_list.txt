@@ -1,0 +1,15 @@
+# Google Fonts
+@@||fonts.gstatic.com^$important
+# Eve Online
+@@||extccp.com^$important
+
+# Joyn Streaming
+@@||event-collector.prd.data.s.joyn.de^$important
+@@||a-fds.youborafds01.com^$important
+@@||imasdk.googleapis.com^$important
+@@||browser-intake-datadoghq.eu^$important
+@@||joyn.at^$important
+@@||joyn.de^$important
+@@||img.joyn.de^$important
+@@||atv.at^$important
+@@||browser-intake-datadoghq.eu^$important

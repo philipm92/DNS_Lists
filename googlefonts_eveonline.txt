@@ -1,4 +1,0 @@
-# Google Fonts
-@@||fonts.gstatic.com^$important
-# Eve Online
-@@||extccp.com^$important
