@@ -13,3 +13,8 @@
 @@||img.joyn.de^$important
 @@||atv.at^$important
 @@||browser-intake-datadoghq.eu^$important
+
+
+# Else
+vhs.at
+
