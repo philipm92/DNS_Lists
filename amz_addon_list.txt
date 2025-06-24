@@ -28,5 +28,5 @@
 0.0.0.0 burning-series.io
 0.0.0.0 ivi.tv
 0.0.0.0 filmpalast.pro
-
+0.0.0.0 serienstream.io
 
