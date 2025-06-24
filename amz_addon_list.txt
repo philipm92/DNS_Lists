@@ -10,7 +10,6 @@
 0.0.0.0 arcus-uswest.amazon.com
 0.0.0.0 softwareupdates.amazon.com
 
-
 # ! Attempt to block Prime Ads
 0.0.0.0 abbo7pmaaaaaaaamhdrshsjlfhjgw.pop-iad-2.cf.dash.row.aiv-cdn.net
 0.0.0.0 a185avoddashs3ww-a.akamaihd.net
@@ -27,7 +26,6 @@
 # streaming
 0.0.0.0 bs.to
 0.0.0.0 burning-series.io
-0.0.0.0 softwareupdates.amazon.com
 0.0.0.0 ivi.tv
 
 
