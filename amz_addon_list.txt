@@ -14,6 +14,9 @@
 0.0.0.0 abbo7pmaaaaaaaamhdrshsjlfhjgw.pop-iad-2.cf.dash.row.aiv-cdn.net
 0.0.0.0 a185avoddashs3ww-a.akamaihd.net
 0.0.0.0 unagi-na.amazon.com 
+# new 02072025
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 serving-sys.com
 
 # other urls
 #0.0.0.0 a2z.com pv-cdn.net amazon.dev 
